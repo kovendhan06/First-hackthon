@@ -1,0 +1,60 @@
+
+body{
+    background-color: rgb(67, 129, 153) ;
+    width:500px;
+    padding:0px;
+    margin:0px;
+    overflow: hidden;
+    background:url(https://img.freepik.com/free-vector/background-hand-drawn-alcohol-drink-bottles-glasses-illustration_80590-2995.jpg?w=360);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+div{
+    background-color:5b4b47;
+    color:blue;
+    font-size: larger;
+    border: 2px solid white;
+    width:500px;
+    height:50px;
+    font-family: sans-serif;
+    font-weight: larger;
+}
+h2{
+
+    text-align: left;
+    color:blueviolet;
+    
+    width:500px;
+    font-family:'Courier New', Courier, monospace;
+}
+#txt
+{
+    margin:2px;
+   width:350px;
+   height:40px; 
+   border-radius: 4px;
+   padding-left: 6px;
+   font-size: larger;
+   color:blue;
+   
+}
+#btn
+{
+  width:100px; 
+  height:40px;
+  font-size:larger;
+  color: blue ;
+  margin:4px;
+  letter-spacing: 1px;
+}
+#btn:hover
+{
+ background-color: lightblue;
+ color:whits;
+
+}
+
+
+
+  
+
